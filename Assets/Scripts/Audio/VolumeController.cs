@@ -4,6 +4,8 @@ public class VolumeController : MonoBehaviour
 {
     [SerializeField] private Slider musicSlider;
     [SerializeField] private Slider sfxSlider;
+
+    private float previousMusicVolume;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -37,9 +39,16 @@ public class VolumeController : MonoBehaviour
             sfxSlider.onValueChanged.RemoveListener(SetsfxVolume);
         }
     }
-    //ESTA FUNCION HARA QUE PUEDA TRANSICIONAR ENTRE BOTONES
+    
     public void volumen_trans()
     {
-
+        AudioManager.instance.ReducirVolumenTemporal();
     }
+
+    public void RestaurarVolumen()
+    {
+        AudioManager.instance.RestaurarVolumen();
+    }
+
+
 }

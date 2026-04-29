@@ -6,7 +6,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioSource musicSource;
     [SerializeField] private AudioSource sfxSource;
 
-
+    private float previousMusicVolume;
+    private bool volumenReducido = false;
 
     private const string MUSIC_KEY = "Music_Volume";
     private const string SFX_KEY = "SFX_Volume";
@@ -63,8 +64,28 @@ public class AudioManager : MonoBehaviour
         PlayerPrefs.SetFloat(SFX_KEY, volumeValue);
         PlayerPrefs.Save();
     }
-    void Update()
+
+
+
+    //ESTA FUNCION HARA QUE PUEDA TRANSICIONAR ENTRE BOTONES
+
+    public void ReducirVolumenTemporal(float volumenBajo = 0.2f)
     {
-        
+        if (!volumenReducido)
+        {
+            previousMusicVolume = musicSource.volume;
+            volumenReducido = true;
+        }
+
+        musicSource.volume = volumenBajo;
+    }
+
+    public void RestaurarVolumen()
+    {
+        if (volumenReducido)
+        {
+            musicSource.volume = previousMusicVolume;
+            volumenReducido = false;
+        }
     }
 }
