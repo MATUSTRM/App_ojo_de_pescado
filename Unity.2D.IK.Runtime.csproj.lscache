@@ -346,11 +346,7 @@ Library/ScriptAssemblies/
  UnityEngine.UI.dll
 Temp/bin/Debug/
  Unity.2D.Animation.Runtime.dll
- Unity.2D.Common.Runtime.dll
- Unity.Burst.dll
- Unity.Collections.dll
  Unity.InternalAPIEngineBridge.001.dll
- Unity.Mathematics.dll
 
 [analyzerReferences]
 ../../../../../../../Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/
