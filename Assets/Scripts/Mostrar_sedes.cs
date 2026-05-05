@@ -5,7 +5,10 @@ using TMPro;
 public class Mostrar_sedes : MonoBehaviour
 {
     public TMP_Dropdown Opciones;
-    public GameObject [] sedes;
+    public TextMeshProUGUI Text_descripcion;
+    public RawImage imagen;
+    public Sedes[] sedes;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -15,16 +18,20 @@ public class Mostrar_sedes : MonoBehaviour
 
     public void cambiar_sede(int index)
     {
-        // RECORRE LAS SEDES Y APAGA LAS QUE NO SE USAN
-        for (int i = 0; i < sedes.Length; i++)
+        if (sedes[index] != null)
         {
-            if (i != index)
-            {
-                sedes[i].SetActive(false);
-            }
+            return;
         }
-        // SE ACTIVA LA QUE SI SE USA
-        sedes[index].SetActive(true);
+        if (sedes[index].Descripcion == "") 
+        {
+            Text_descripcion.text = sedes[index].Descripcion;
+        }
+        if (sedes[index].imagen_sede != null)
+        {
+            imagen.texture = sedes[index].imagen_sede;
+        }
+        // RECORRE LAS SEDES Y APAGA LAS QUE NO SE USAN
+        
     }
 }
 

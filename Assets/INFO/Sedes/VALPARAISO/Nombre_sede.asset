@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
   m_Name: Nombre_sede
   m_EditorClassIdentifier: 
+  imagen_sede: {fileID: 0}
   Nombre: Valparaiso
+  Descripcion: ciudad patrimonio
