@@ -18,20 +18,30 @@ public class Mostrar_sedes : MonoBehaviour
 
     public void cambiar_sede(int index)
     {
-        if (sedes[index] != null)
+        if (sedes[index] == null)
         {
             return;
         }
+        //OBTENEMOS LA INFORMACION DE LA SEDE MEDIANTE SU SCRIPTABLE OBJECT
         if (sedes[index].Descripcion == "") 
         {
             Text_descripcion.text = sedes[index].Descripcion;
         }
+        else
+        {
+            Text_descripcion.text = sedes[index].Descripcion;
+        }
+        //OBTENEMOS LA IMAGEN DE LA SEDE MEDIANTE EL MISMO SCRIPTABLE OBJECT
         if (sedes[index].imagen_sede != null)
         {
             imagen.texture = sedes[index].imagen_sede;
         }
-        // RECORRE LAS SEDES Y APAGA LAS QUE NO SE USAN
+        else
+        {
+            imagen.texture = sedes[index].imagen_sede;
+        }
         
+
     }
 }
 
