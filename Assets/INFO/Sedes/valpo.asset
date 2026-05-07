@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
   m_Name: valpo
   m_EditorClassIdentifier: 
-  imagen_sede: {fileID: 2800000, guid: dffef66376be4fa480fb02b19edbe903, type: 3}
+  imagen_sede: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
   Nombre: valpo
   Descripcion: es una prueba
