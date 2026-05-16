@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7747cf17528f1004592a03abb9a5e1b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8141001656221871462
+    second: Logos_cK26-removebg-preview_0
+  - first:
+      213: 9153952816479854047
+    second: Logos_cK26-removebg-preview_1
+  - first:
+      213: 6159226856332024902
+    second: Logos_cK26-removebg-preview_2
+  - first:
+      213: 3607919425208283894
+    second: Logos_cK26-removebg-preview_3
+  - first:
+      213: 8370435556207856634
+    second: Logos_cK26-removebg-preview_4
+  - first:
+      213: -1368827786241987802
+    second: Logos_cK26-removebg-preview_5
+  - first:
+      213: 4375636383680048606
+    second: Logos_cK26-removebg-preview_6
+  - first:
+      213: -6132662400424712663
+    second: Logos_cK26-removebg-preview_7
+  - first:
+      213: 4414292690345456516
+    second: Logos_cK26-removebg-preview_8
+  - first:
+      213: 4980184711010507029
+    second: Logos_cK26-removebg-preview_9
+  - first:
+      213: -6979021249415732819
+    second: Logos_cK26-removebg-preview_10
+  - first:
+      213: 8653445333912520787
+    second: Logos_cK26-removebg-preview_11
+  - first:
+      213: -6850893815021958840
+    second: Logos_cK26-removebg-preview_12
+  - first:
+      213: 76796477059379754
+    second: Logos_cK26-removebg-preview_13
+  - first:
+      213: 2833376503336744618
+    second: Logos_cK26-removebg-preview_14
+  - first:
+      213: -8671423457318030746
+    second: Logos_cK26-removebg-preview_15
+  - first:
+      213: -340672354902266387
+    second: Logos_cK26-removebg-preview_16
+  - first:
+      213: -4285814501270495122
+    second: Logos_cK26-removebg-preview_17
+  - first:
+      213: 4657672896351338490
+    second: Logos_cK26-removebg-preview_18
+  - first:
+      213: -2203275550631855148
+    second: Logos_cK26-removebg-preview_19
+  - first:
+      213: -9043128046699933551
+    second: Logos_cK26-removebg-preview_20
+  - first:
+      213: 7365006878528692680
+    second: Logos_cK26-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 154
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da8fa9fd5aaf070800000000000000
+      internalID: 8141001656221871462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 188
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddd7fc369f590f70800000000000000
+      internalID: 9153952816479854047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 172
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c57be5138f97550800000000000000
+      internalID: 6159226856332024902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 161
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f275c50a97e11230800000000000000
+      internalID: 3607919425208283894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 112
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb81173ac2c92470800000000000000
+      internalID: 8370435556207856634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 119
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bac5a7162f00de0800000000000000
+      internalID: -1368827786241987802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 111
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd268b9b1269bc30800000000000000
+      internalID: 4375636383680048606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 140
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9266a4ff90864eaa0800000000000000
+      internalID: -6132662400424712663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f4ae50d7b24d30800000000000000
+      internalID: 4414292690345456516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519dc97cb9b2d1540800000000000000
+      internalID: 4980184711010507029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 43
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12cac6629852f90800000000000000
+      internalID: -6979021249415732819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 82
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580e1beea6371870800000000000000
+      internalID: 8653445333912520787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84902b17f5cbce0a0800000000000000
+      internalID: -6850893815021958840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 43
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22302f2df5d01100800000000000000
+      internalID: 76796477059379754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 43
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6335cfaec225720800000000000000
+      internalID: 2833376503336744618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 42
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b1990f4ae8a780800000000000000
+      internalID: -8671423457318030746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded21455c40b54bf0800000000000000
+      internalID: -340672354902266387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ed861b6ab584c0800000000000000
+      internalID: -4285814501270495122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 42
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7cf262d063a040800000000000000
+      internalID: 4657672896351338490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 41
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf8466f846c61e0800000000000000
+      internalID: -2203275550631855148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 42
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190141e34fa508280800000000000000
+      internalID: -9043128046699933551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logos_cK26-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 13
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e20b0cb2c53660800000000000000
+      internalID: 7365006878528692680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Logos_cK26-removebg-preview_0: 8141001656221871462
+      Logos_cK26-removebg-preview_1: 9153952816479854047
+      Logos_cK26-removebg-preview_10: -6979021249415732819
+      Logos_cK26-removebg-preview_11: 8653445333912520787
+      Logos_cK26-removebg-preview_12: -6850893815021958840
+      Logos_cK26-removebg-preview_13: 76796477059379754
+      Logos_cK26-removebg-preview_14: 2833376503336744618
+      Logos_cK26-removebg-preview_15: -8671423457318030746
+      Logos_cK26-removebg-preview_16: -340672354902266387
+      Logos_cK26-removebg-preview_17: -4285814501270495122
+      Logos_cK26-removebg-preview_18: 4657672896351338490
+      Logos_cK26-removebg-preview_19: -2203275550631855148
+      Logos_cK26-removebg-preview_2: 6159226856332024902
+      Logos_cK26-removebg-preview_20: -9043128046699933551
+      Logos_cK26-removebg-preview_21: 7365006878528692680
+      Logos_cK26-removebg-preview_3: 3607919425208283894
+      Logos_cK26-removebg-preview_4: 8370435556207856634
+      Logos_cK26-removebg-preview_5: -1368827786241987802
+      Logos_cK26-removebg-preview_6: 4375636383680048606
+      Logos_cK26-removebg-preview_7: -6132662400424712663
+      Logos_cK26-removebg-preview_8: 4414292690345456516
+      Logos_cK26-removebg-preview_9: 4980184711010507029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 3c8c320b7f1115e4d9d4c3596baa55ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4339369782816418653
+    second: logotipo-indh-simplificado-color_0
+  - first:
+      213: 3061711633772563924
+    second: logotipo-indh-simplificado-color_1
+  - first:
+      213: -2498503930946714761
+    second: logotipo-indh-simplificado-color_2
+  - first:
+      213: 2837618396060293954
+    second: logotipo-indh-simplificado-color_3
+  - first:
+      213: 7478842965098155032
+    second: logotipo-indh-simplificado-color_4
+  - first:
+      213: -7337267177918326134
+    second: logotipo-indh-simplificado-color_5
+  - first:
+      213: -6110650005891244207
+    second: logotipo-indh-simplificado-color_6
+  - first:
+      213: -5281412392123824842
+    second: logotipo-indh-simplificado-color_7
+  - first:
+      213: 6227155696483106817
+    second: logotipo-indh-simplificado-color_8
+  - first:
+      213: 5807043471500648503
+    second: logotipo-indh-simplificado-color_9
+  - first:
+      213: -7366333562206605379
+    second: logotipo-indh-simplificado-color_10
+  - first:
+      213: 3244235344690223402
+    second: logotipo-indh-simplificado-color_11
+  - first:
+      213: 1612444119726774647
+    second: logotipo-indh-simplificado-color_12
+  - first:
+      213: 1886050590775593046
+    second: logotipo-indh-simplificado-color_13
+  - first:
+      213: 449003324088114232
+    second: logotipo-indh-simplificado-color_14
+  - first:
+      213: 4022374526605514182
+    second: logotipo-indh-simplificado-color_15
+  - first:
+      213: -1499840648004026784
+    second: logotipo-indh-simplificado-color_16
+  - first:
+      213: -8853004696686831736
+    second: logotipo-indh-simplificado-color_17
+  - first:
+      213: -936298637570261895
+    second: logotipo-indh-simplificado-color_18
+  - first:
+      213: -2700403555212838405
+    second: logotipo-indh-simplificado-color_19
+  - first:
+      213: -1758451777757989212
+    second: logotipo-indh-simplificado-color_20
+  - first:
+      213: 4217645165220945301
+    second: logotipo-indh-simplificado-color_21
+  - first:
+      213: -407185275857236443
+    second: logotipo-indh-simplificado-color_22
+  - first:
+      213: -5794963274043626859
+    second: logotipo-indh-simplificado-color_23
+  - first:
+      213: -5245313994143148104
+    second: logotipo-indh-simplificado-color_24
+  - first:
+      213: 7134721783626309384
+    second: logotipo-indh-simplificado-color_25
+  - first:
+      213: -2441605737068323117
+    second: logotipo-indh-simplificado-color_26
+  - first:
+      213: -6769015022716908776
+    second: logotipo-indh-simplificado-color_27
+  - first:
+      213: 7873119152774568521
+    second: logotipo-indh-simplificado-color_28
+  - first:
+      213: -3114157198245189338
+    second: logotipo-indh-simplificado-color_29
+  - first:
+      213: 148008857693157403
+    second: logotipo-indh-simplificado-color_30
+  - first:
+      213: 529903502607936112
+    second: logotipo-indh-simplificado-color_31
+  - first:
+      213: 4752672546696577685
+    second: logotipo-indh-simplificado-color_32
+  - first:
+      213: 1225539833778338010
+    second: logotipo-indh-simplificado-color_33
+  - first:
+      213: -568465790011970289
+    second: logotipo-indh-simplificado-color_34
+  - first:
+      213: 2718710688575374591
+    second: logotipo-indh-simplificado-color_35
+  - first:
+      213: 1602928238494380723
+    second: logotipo-indh-simplificado-color_36
+  - first:
+      213: 3389351598568467597
+    second: logotipo-indh-simplificado-color_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 97
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b26d593d9883c30800000000000000
+      internalID: 4339369782816418653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 379
+        width: 480
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc1bf52826d7a20800000000000000
+      internalID: 3061711633772563924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 379
+        width: 597
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773010699e7835dd0800000000000000
+      internalID: -2498503930946714761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 378
+        width: 583
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b994995ee316720800000000000000
+      internalID: 2837618396060293954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 18
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cca995d003ac760800000000000000
+      internalID: 7478842965098155032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a9b0e406acc2a90800000000000000
+      internalID: -7337267177918326134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 158
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f1d1cf13c923ba0800000000000000
+      internalID: -6110650005891244207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350d175967a4b6b0800000000000000
+      internalID: -5281412392123824842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 19
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1000de1fc1d4b6650800000000000000
+      internalID: 6227155696483106817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 160
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302c023543c69050800000000000000
+      internalID: 5807043471500648503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 158
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf23a757a685c990800000000000000
+      internalID: -7366333562206605379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 160
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2917087bd6d50d20800000000000000
+      internalID: 3244235344690223402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 158
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7795b70426d806610800000000000000
+      internalID: 1612444119726774647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 159
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658489305099c2a10800000000000000
+      internalID: 1886050590775593046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 159
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cdd33f42e2b3600800000000000000
+      internalID: 449003324088114232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_15
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 158
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d6eb025852d730800000000000000
+      internalID: 4022374526605514182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_16
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 160
+        width: 20
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e370c80ee7f2be0800000000000000
+      internalID: -1499840648004026784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 158
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887dd13322fc32580800000000000000
+      internalID: -8853004696686831736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_18
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 159
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c31ff89599103f0800000000000000
+      internalID: -936298637570261895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_19
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 159
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9365d164d368ad0800000000000000
+      internalID: -2700403555212838405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_20
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 160
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b410cc69b897e0800000000000000
+      internalID: -1758451777757989212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_21
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 158
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d53a58ee5188a30800000000000000
+      internalID: 4217645165220945301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_22
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 160
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e82c22623695af0800000000000000
+      internalID: -407185275857236443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae134fa97249fa0800000000000000
+      internalID: -5794963274043626859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b756b396b6e437b0800000000000000
+      internalID: -5245313994143148104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f994c29af930360800000000000000
+      internalID: 7134721783626309384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9c70b48cad1ed0800000000000000
+      internalID: -2441605737068323117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 88
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b0dab53b0af02a0800000000000000
+      internalID: -6769015022716908776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_28
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ad377e720f24d60800000000000000
+      internalID: 7873119152774568521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_29
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629aed7178a48c4d0800000000000000
+      internalID: -3114157198245189338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 0
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18796a9545dd0200800000000000000
+      internalID: 148008857693157403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_31
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a6e269d689a5700800000000000000
+      internalID: 529903502607936112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_32
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 0
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c99f1082e4f140800000000000000
+      internalID: 4752672546696577685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_33
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f2725cfdf10110800000000000000
+      internalID: 1225539833778338010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_34
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 0
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0def5730676c18f0800000000000000
+      internalID: -568465790011970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_35
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c79787fccab520800000000000000
+      internalID: 2718710688575374591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_36
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b276ef7dbebe3610800000000000000
+      internalID: 1602928238494380723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logotipo-indh-simplificado-color_37
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c63934255690f20800000000000000
+      internalID: 3389351598568467597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logotipo-indh-simplificado-color_0: 4339369782816418653
+      logotipo-indh-simplificado-color_1: 3061711633772563924
+      logotipo-indh-simplificado-color_10: -7366333562206605379
+      logotipo-indh-simplificado-color_11: 3244235344690223402
+      logotipo-indh-simplificado-color_12: 1612444119726774647
+      logotipo-indh-simplificado-color_13: 1886050590775593046
+      logotipo-indh-simplificado-color_14: 449003324088114232
+      logotipo-indh-simplificado-color_15: 4022374526605514182
+      logotipo-indh-simplificado-color_16: -1499840648004026784
+      logotipo-indh-simplificado-color_17: -8853004696686831736
+      logotipo-indh-simplificado-color_18: -936298637570261895
+      logotipo-indh-simplificado-color_19: -2700403555212838405
+      logotipo-indh-simplificado-color_2: -2498503930946714761
+      logotipo-indh-simplificado-color_20: -1758451777757989212
+      logotipo-indh-simplificado-color_21: 4217645165220945301
+      logotipo-indh-simplificado-color_22: -407185275857236443
+      logotipo-indh-simplificado-color_23: -5794963274043626859
+      logotipo-indh-simplificado-color_24: -5245313994143148104
+      logotipo-indh-simplificado-color_25: 7134721783626309384
+      logotipo-indh-simplificado-color_26: -2441605737068323117
+      logotipo-indh-simplificado-color_27: -6769015022716908776
+      logotipo-indh-simplificado-color_28: 7873119152774568521
+      logotipo-indh-simplificado-color_29: -3114157198245189338
+      logotipo-indh-simplificado-color_3: 2837618396060293954
+      logotipo-indh-simplificado-color_30: 148008857693157403
+      logotipo-indh-simplificado-color_31: 529903502607936112
+      logotipo-indh-simplificado-color_32: 4752672546696577685
+      logotipo-indh-simplificado-color_33: 1225539833778338010
+      logotipo-indh-simplificado-color_34: -568465790011970289
+      logotipo-indh-simplificado-color_35: 2718710688575374591
+      logotipo-indh-simplificado-color_36: 1602928238494380723
+      logotipo-indh-simplificado-color_37: 3389351598568467597
+      logotipo-indh-simplificado-color_4: 7478842965098155032
+      logotipo-indh-simplificado-color_5: -7337267177918326134
+      logotipo-indh-simplificado-color_6: -6110650005891244207
+      logotipo-indh-simplificado-color_7: -5281412392123824842
+      logotipo-indh-simplificado-color_8: 6227155696483106817
+      logotipo-indh-simplificado-color_9: 5807043471500648503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
