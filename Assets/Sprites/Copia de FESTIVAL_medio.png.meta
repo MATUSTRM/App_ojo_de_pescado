@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a7f1c5df2c93b484c8dc824b6dac686a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8329224982714297572
+    second: Copia de FESTIVAL_medio_0
+  - first:
+      213: 3760829284345618481
+    second: Copia de FESTIVAL_medio_1
+  - first:
+      213: -119484029575208104
+    second: Copia de FESTIVAL_medio_2
+  - first:
+      213: -6705791870176772374
+    second: Copia de FESTIVAL_medio_3
+  - first:
+      213: -7056686111994711214
+    second: Copia de FESTIVAL_medio_4
+  - first:
+      213: -2922243340471446963
+    second: Copia de FESTIVAL_medio_5
+  - first:
+      213: 4265394161806067265
+    second: Copia de FESTIVAL_medio_6
+  - first:
+      213: 9021436612883491647
+    second: Copia de FESTIVAL_medio_7
+  - first:
+      213: -2716593456927996586
+    second: Copia de FESTIVAL_medio_8
+  - first:
+      213: 8945979443264527650
+    second: Copia de FESTIVAL_medio_9
+  - first:
+      213: 4588264078890029860
+    second: Copia de FESTIVAL_medio_10
+  - first:
+      213: 1872713152211065709
+    second: Copia de FESTIVAL_medio_11
+  - first:
+      213: -7836046814281524015
+    second: Copia de FESTIVAL_medio_12
+  - first:
+      213: 1583787773300596647
+    second: Copia de FESTIVAL_medio_13
+  - first:
+      213: 820753741768860411
+    second: Copia de FESTIVAL_medio_14
+  - first:
+      213: -2014427292958371192
+    second: Copia de FESTIVAL_medio_15
+  - first:
+      213: -1201946055811910492
+    second: Copia de FESTIVAL_medio_16
+  - first:
+      213: -1891724694812027884
+    second: Copia de FESTIVAL_medio_17
+  - first:
+      213: -7141547322076247432
+    second: Copia de FESTIVAL_medio_18
+  - first:
+      213: 6969750545351967986
+    second: Copia de FESTIVAL_medio_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_0
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 635
+        width: 744
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1351032206a86c80800000000000000
+      internalID: -8329224982714297572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_1
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1272
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ae42fe46213430800000000000000
+      internalID: 3760829284345618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1194
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85366dc78e1875ef0800000000000000
+      internalID: -119484029575208104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 994
+        width: 167
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3968a2dd30f2a0800000000000000
+      internalID: -6705791870176772374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1041
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537f1b7e5d911e90800000000000000
+      internalID: -7056686111994711214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 893
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d2ff1a2b1277d0800000000000000
+      internalID: -2922243340471446963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 617
+        width: 148
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c9712469b13b30800000000000000
+      internalID: 4265394161806067265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 493
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3baf924dc4923d70800000000000000
+      internalID: 9021436612883491647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 437
+        width: 955
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65508a0e4a8bc4ad0800000000000000
+      internalID: -2716593456927996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_9
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 465
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d9ab3e7e0862c70800000000000000
+      internalID: 8945979443264527650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 167
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423dcedbed9ccaf30800000000000000
+      internalID: 4588264078890029860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 116
+        width: 145
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1ebb90b63df910800000000000000
+      internalID: 1872713152211065709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 228
+        width: 134
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1b6780f4c04390800000000000000
+      internalID: -7836046814281524015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 575
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af503ba69ebaf510800000000000000
+      internalID: 1583787773300596647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 365
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a43afd27e36b00800000000000000
+      internalID: 820753741768860411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_15
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 202
+        width: 168
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825d59cc015b04e0800000000000000
+      internalID: -2014427292958371192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_16
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 110
+        width: 351
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a436203e64d15fe0800000000000000
+      internalID: -1201946055811910492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 72
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41415e0b96e3fb5e0800000000000000
+      internalID: -1891724694812027884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 72
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac0015c8024ec90800000000000000
+      internalID: -7141547322076247432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copia de FESTIVAL_medio_19
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 94
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f40ac4913789b060800000000000000
+      internalID: 6969750545351967986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Copia de FESTIVAL_medio_0: -8329224982714297572
+      Copia de FESTIVAL_medio_1: 3760829284345618481
+      Copia de FESTIVAL_medio_10: 4588264078890029860
+      Copia de FESTIVAL_medio_11: 1872713152211065709
+      Copia de FESTIVAL_medio_12: -7836046814281524015
+      Copia de FESTIVAL_medio_13: 1583787773300596647
+      Copia de FESTIVAL_medio_14: 820753741768860411
+      Copia de FESTIVAL_medio_15: -2014427292958371192
+      Copia de FESTIVAL_medio_16: -1201946055811910492
+      Copia de FESTIVAL_medio_17: -1891724694812027884
+      Copia de FESTIVAL_medio_18: -7141547322076247432
+      Copia de FESTIVAL_medio_19: 6969750545351967986
+      Copia de FESTIVAL_medio_2: -119484029575208104
+      Copia de FESTIVAL_medio_3: -6705791870176772374
+      Copia de FESTIVAL_medio_4: -7056686111994711214
+      Copia de FESTIVAL_medio_5: -2922243340471446963
+      Copia de FESTIVAL_medio_6: 4265394161806067265
+      Copia de FESTIVAL_medio_7: 9021436612883491647
+      Copia de FESTIVAL_medio_8: -2716593456927996586
+      Copia de FESTIVAL_medio_9: 8945979443264527650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
