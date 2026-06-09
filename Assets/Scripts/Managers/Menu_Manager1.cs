@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -25,20 +26,12 @@ public class Menu_Manager1 : MonoBehaviour
                 GameObject current = info.currentPanel;
                 GameObject next = info.nextPanel;
 
-    
+                //AHORA NECESITO HACER QUE CADA VEZ QUE PRESIONE UN BOTON, HAYA UNA ESPERA DE CAMBIO DE MENU Y SE EJECUTE
                 string destino = info.destiny_name;
-                info.button.onClick.AddListener(() =>{Debug.Log("Cambiando a: " + destino);ButtonAction(current, next);
-                 switch(info.transition)
-                {
-                    case ButtonInfo.transition_type.nothing:
-                        break;
-                    case ButtonInfo.transition_type.cine:
-                        Main_transition.Play("cine");
-                        break;
-                    case ButtonInfo.transition_type.flash:
-                        Main_transition.Play("flash");       
-                        break;
-                };});
+                info.button.onClick.AddListener(() =>{Debug.Log("Cambiando a: " + destino);
+                StartCoroutine(ch_menu(info,current,next));
+                //ButtonAction(current, next);
+                });
 
 
             if (Main_transition == null)
@@ -55,6 +48,25 @@ public class Menu_Manager1 : MonoBehaviour
     {
         current.SetActive(false);
         next.SetActive(true);
+    }
+
+    IEnumerator ch_menu(ButtonInfo info, GameObject current, GameObject next)
+    {
+         float delay =info.delay_time;
+         switch(info.transition)
+                {
+                    case ButtonInfo.transition_type.nothing:
+                        break;
+                    case ButtonInfo.transition_type.cine:
+                        Main_transition.Play("cine");
+                        break;
+                    case ButtonInfo.transition_type.flash:
+                        Main_transition.Play("flash");       
+                        break;
+                };
+        yield return new WaitForSeconds(delay);
+        ButtonAction(current,next);
+        //ACA DEBERIA HACER EL CAMBIO 
     }
 
     //HAY QUE TRANSICIONAR BIEN ENTRE LOS MENUS, MIENTRAS ESTE EN LA TRANSICION

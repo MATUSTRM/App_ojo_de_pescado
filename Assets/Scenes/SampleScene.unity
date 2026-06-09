@@ -13016,89 +13016,105 @@ MonoBehaviour:
   - destiny_name: principal a categorias
     transition: 1
     button: {fileID: 1929561765}
+    delay_time: 0.1
     currentPanel: {fileID: 1239087771}
     nextPanel: {fileID: 1258272054}
   - destiny_name: Categorias a principal
     transition: 0
     button: {fileID: 1109576412}
+    delay_time: 0
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 1239087771}
   - destiny_name: Actividades a categoria (FALTA)
     transition: 0
     button: {fileID: 550253695}
+    delay_time: 0
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 1327784484}
   - destiny_name: categoria a actividades (FALTA)
     transition: 0
     button: {fileID: 1199804958}
+    delay_time: 0
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 2093896456}
   - destiny_name: juego a categoria
     transition: 0
     button: {fileID: 2144089065}
+    delay_time: 0
     currentPanel: {fileID: 1327784484}
     nextPanel: {fileID: 1258272054}
   - destiny_name: categoria a juegos
     transition: 0
     button: {fileID: 550253695}
+    delay_time: 0
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 1327784484}
   - destiny_name: principal a extras
     transition: 0
     button: {fileID: 1769076841}
+    delay_time: 0
     currentPanel: {fileID: 1239087771}
     nextPanel: {fileID: 1001321557}
   - destiny_name: extras a principal
     transition: 0
     button: {fileID: 2010483169}
+    delay_time: 0
     currentPanel: {fileID: 1001321557}
     nextPanel: {fileID: 1239087771}
   - destiny_name: extras a spondors
     transition: 0
     button: {fileID: 773153311}
+    delay_time: 0
     currentPanel: {fileID: 1001321557}
     nextPanel: {fileID: 1342561331}
   - destiny_name: largometraje a Categoria (FALTA)
     transition: 0
     button: {fileID: 1911305597}
+    delay_time: 0
     currentPanel: {fileID: 1342561331}
     nextPanel: {fileID: 1001321557}
   - destiny_name: sedes a calendario
     transition: 0
     button: {fileID: 0}
+    delay_time: 0
     currentPanel: {fileID: 2093896456}
     nextPanel: {fileID: 1469176269}
   - destiny_name: calendario a sedes
     transition: 0
     button: {fileID: 0}
+    delay_time: 0
     currentPanel: {fileID: 1469176269}
     nextPanel: {fileID: 2093896456}
   - destiny_name: sedes a categorias
     transition: 0
     button: {fileID: 754394333}
+    delay_time: 0
     currentPanel: {fileID: 2093896456}
     nextPanel: {fileID: 1258272054}
   - destiny_name: Categorias a largos
     transition: 0
     button: {fileID: 1920445191}
+    delay_time: 0
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 33893550}
   - destiny_name: largos a categorias
     transition: 0
     button: {fileID: 622029540}
+    delay_time: 0
     currentPanel: {fileID: 33893550}
     nextPanel: {fileID: 1258272054}
   - destiny_name: "extras a dise\xF1adores"
     transition: 0
     button: {fileID: 922096004}
+    delay_time: 0
     currentPanel: {fileID: 1001321557}
     nextPanel: {fileID: 338900586}
   - destiny_name: "dise\xF1adores a extras"
     transition: 0
     button: {fileID: 687289526}
+    delay_time: 0
     currentPanel: {fileID: 338900586}
     nextPanel: {fileID: 1001321557}
-  delay_time: 0
   Main_transition: {fileID: 710024600}
 --- !u!114 &724437408
 MonoBehaviour:
@@ -13116,44 +13132,51 @@ MonoBehaviour:
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 1198376458}
+    delay_time: 0
     currentPanel: {fileID: 1769894460}
     nextPanel: {fileID: 230084665}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 980814941}
+    delay_time: 0
     currentPanel: {fileID: 230084665}
     nextPanel: {fileID: 1769894460}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 1293583887}
+    delay_time: 0
     currentPanel: {fileID: 230084665}
     nextPanel: {fileID: 743603411}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 2006048777}
+    delay_time: 0
     currentPanel: {fileID: 743603411}
     nextPanel: {fileID: 230084665}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 33999393}
+    delay_time: 0
     currentPanel: {fileID: 743603411}
     nextPanel: {fileID: 618358295}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 1001370610}
+    delay_time: 0
     currentPanel: {fileID: 618358295}
     nextPanel: {fileID: 743603411}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 568387819}
+    delay_time: 0
     currentPanel: {fileID: 126142516}
     nextPanel: {fileID: 618358295}
   - destiny_name: Sede 1 a 2
     transition: 0
     button: {fileID: 1686173012}
+    delay_time: 0
     currentPanel: {fileID: 618358295}
     nextPanel: {fileID: 126142516}
-  delay_time: 0
   Main_transition: {fileID: 710024600}
 --- !u!1 &726125400
 GameObject:
