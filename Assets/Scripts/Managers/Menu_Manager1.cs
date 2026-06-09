@@ -1,10 +1,14 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Menu_Manager1 : MonoBehaviour
 {
+    private GameObject current;
+    private GameObject next;
     [SerializeField] private List<ButtonInfo> buttons = new List<ButtonInfo>();
+    [SerializeField] private float delay_time;
 
     void Start()
     {
@@ -14,8 +18,8 @@ public class Menu_Manager1 : MonoBehaviour
 
             if (info.button != null && info.currentPanel != null && info.nextPanel != null)
             {
-                GameObject current = info.currentPanel;
-                GameObject next = info.nextPanel;
+                current = info.currentPanel;
+                next = info.nextPanel;
 
                 // Opcional: log para ver a dónde va
                 string destino = info.destiny_name;
@@ -23,16 +27,25 @@ public class Menu_Manager1 : MonoBehaviour
                 info.button.onClick.AddListener(() =>
                 {
                     Debug.Log("Cambiando a: " + destino);
-                    ButtonAction(current, next);
+                    ButtonAction();
                 });
             }
         }
     }
 
-    private void ButtonAction(GameObject current, GameObject next)
+
+    private void ButtonAction()
     {
         current.SetActive(false);
         next.SetActive(true);
+    }
+
+    //HAY QUE TRANSICIONAR BIEN ENTRE LOS MENUS, MIENTRAS ESTE EN LA TRANSICION
+    //NECESITO CREAR UN METODO SIN PARAMETRO QUE SEA PUBLICO, SE AGREGARA COMO EVENTO EN LA ANIMACION DE TRANSICIONES
+
+    public void Next_menu()
+    {
+        ButtonAction();
     }
 }
 
