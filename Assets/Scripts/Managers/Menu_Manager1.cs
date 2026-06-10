@@ -56,6 +56,7 @@ public class Menu_Manager1 : MonoBehaviour
          switch(info.transition)
                 {
                     case ButtonInfo.transition_type.nothing:
+                        //StopAllCoroutines();
                         break;
                     case ButtonInfo.transition_type.cine:
                         Main_transition.Play("cine");
