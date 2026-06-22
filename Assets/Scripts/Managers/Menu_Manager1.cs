@@ -9,12 +9,11 @@ public class Menu_Manager1 : MonoBehaviour
 {
     private GameObject current;
     private GameObject next;
-    [SerializeField] private List<ButtonInfo> buttons = new List<ButtonInfo>();
-    
-
-
-
     [SerializeField] Animator Main_transition;
+    [SerializeField] private AudioClip sfx_click;
+    [SerializeField] private List<ButtonInfo> buttons = new List<ButtonInfo>();
+
+
     void Start()
     {
         for (int i = 0; i < buttons.Count; i++)
@@ -28,7 +27,7 @@ public class Menu_Manager1 : MonoBehaviour
 
                 //AHORA NECESITO HACER QUE CADA VEZ QUE PRESIONE UN BOTON, HAYA UNA ESPERA DE CAMBIO DE MENU Y SE EJECUTE
                 string destino = info.destiny_name;
-                info.button.onClick.AddListener(() =>{Debug.Log("Cambiando a: " + destino);
+                info.button.onClick.AddListener(() =>{Debug.Log("Cambiando a: " + destino);AudioManager.instance.PlaySFX(sfx_click);
                 StartCoroutine(ch_menu(info,current,next));
                 //ButtonAction(current, next);
                 });
@@ -52,7 +51,9 @@ public class Menu_Manager1 : MonoBehaviour
 
     IEnumerator ch_menu(ButtonInfo info, GameObject current, GameObject next)
     {
-         float delay =info.delay_time;
+        //AGREGAMOS EL DELAY QUE ASIGNAMOS AL DELAY DEL BOTON
+         float delay = info.delay_time;
+         //ME ES MAS COMODO HACER ENUM CON SWITCH CASE :/
          switch(info.transition)
                 {
                     case ButtonInfo.transition_type.nothing:
@@ -70,17 +71,9 @@ public class Menu_Manager1 : MonoBehaviour
         //ACA DEBERIA HACER EL CAMBIO 
     }
 
-    //HAY QUE TRANSICIONAR BIEN ENTRE LOS MENUS, MIENTRAS ESTE EN LA TRANSICION
-    //NECESITO CREAR UN METODO SIN PARAMETRO QUE SEA PUBLICO, SE AGREGARA COMO EVENTO EN LA ANIMACION DE TRANSICIONES
-
-    //Estaba probando si era mejor el codigo asi, pero queda mejor 
-    public void checK_transition()
-    {
-            
-    }
 
 }
-
+  // ACA ALMACENAREMOS LOS DATOS PARA QUE SEA MAS FACIL MANEJAR FLUJOS DE PANTALLA
 [System.Serializable]
 public class ButtonInfo
 {

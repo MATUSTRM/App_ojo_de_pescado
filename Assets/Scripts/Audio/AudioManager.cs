@@ -50,7 +50,7 @@ public class AudioManager : MonoBehaviour
         SetSFXVolume(sfxVolume);
         
     }
-    // Update is called once per frame
+    
     public void SetMusicVolume(float volumeValue)
     {
         musicSource.volume = volumeValue;

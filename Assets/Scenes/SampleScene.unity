@@ -8288,7 +8288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 450666679}
   m_Layer: 5
-  m_Name: GameObject (1)
+  m_Name: '[Panel] GDC'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8734,7 +8734,7 @@ GameObject:
   m_Component:
   - component: {fileID: 479095205}
   m_Layer: 5
-  m_Name: GameObject (2)
+  m_Name: '[Panel] COMKIDS INTERACTIVO'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12905,6 +12905,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1cc39e48f02e1744905a0c3157251b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Main_transition: {fileID: 710024600}
+  sfx_click: {fileID: 8300000, guid: 8df666d734349f340836579fc968cfa2, type: 3}
   buttons:
   - destiny_name: principal a categorias
     transition: 2
@@ -13008,7 +13010,6 @@ MonoBehaviour:
     delay_time: 0
     currentPanel: {fileID: 338900586}
     nextPanel: {fileID: 1001321557}
-  Main_transition: {fileID: 710024600}
 --- !u!114 &724437408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13021,6 +13022,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1cc39e48f02e1744905a0c3157251b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Main_transition: {fileID: 710024600}
+  sfx_click: {fileID: 0}
   buttons:
   - destiny_name: Sede 1 a 2
     transition: 0
@@ -13070,7 +13073,6 @@ MonoBehaviour:
     delay_time: 0
     currentPanel: {fileID: 618358295}
     nextPanel: {fileID: 126142516}
-  Main_transition: {fileID: 710024600}
 --- !u!1 &726125400
 GameObject:
   m_ObjectHideFlags: 0
@@ -13828,7 +13830,7 @@ GameObject:
   m_Component:
   - component: {fileID: 745443475}
   m_Layer: 5
-  m_Name: GameObject (4)
+  m_Name: '[Panel] OJO DE PESCADO'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19602,7 +19604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1122916736}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: '[Panel] FESTIVAL COMKIDS'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21468,7 +21470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1239087772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23717,7 +23719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1332327494}
   m_Layer: 5
-  m_Name: GameObject (3)
+  m_Name: '[Panel] INDH'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

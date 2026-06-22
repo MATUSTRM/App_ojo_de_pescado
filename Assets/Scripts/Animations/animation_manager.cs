@@ -20,7 +20,7 @@ public class animation_manager : MonoBehaviour
             Button_choose btn_selected =
                 btn_animations[i];
 
-            // ADD ANIMATOR TO VISUAL
+            // AGREGANDO EL ANIMATOR AL GAMEOBJECT VISUAL
             Animator animator =
                 btn_selected.visual.gameObject
                 .AddComponent<Animator>();
