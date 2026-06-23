@@ -12909,7 +12909,7 @@ MonoBehaviour:
   sfx_click: {fileID: 8300000, guid: 8df666d734349f340836579fc968cfa2, type: 3}
   buttons:
   - destiny_name: principal a categorias
-    transition: 2
+    transition: 1
     button: {fileID: 1929561765}
     delay_time: 0.1
     currentPanel: {fileID: 1239087771}
@@ -21470,7 +21470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1239087772
 MonoBehaviour:
   m_ObjectHideFlags: 0
