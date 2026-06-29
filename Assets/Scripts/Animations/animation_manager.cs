@@ -92,10 +92,6 @@ public enum animations
     Zoom_Exit,
     Zoom_Click,
 
-    Shake_Hover,
-    Shake_Exit,
-    Shake_Click,
-
     Rotate_Hover,
     Rotate_Exit,
     Rotate_Click
