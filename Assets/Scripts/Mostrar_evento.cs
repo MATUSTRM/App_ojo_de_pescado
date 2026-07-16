@@ -7,7 +7,9 @@ public class Mostrar_evento : MonoBehaviour
     [Tooltip("ASIGNA EL TEXT MESH DEL BLOQUE QUE VAS A USAR EN EL HORARIO")]
     [Header("NOMBRE DEL EVENTO")]
     [SerializeField] Texture portada;
+    
     [Header("NOMBRE DEL EVENTO")]
+    
     public TextMeshProUGUI nombre;
     [Header("TEXT HORARIO")]
     public TextMeshProUGUI hora_inicio;

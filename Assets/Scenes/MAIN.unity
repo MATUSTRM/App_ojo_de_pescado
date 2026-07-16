@@ -343,6 +343,8 @@ GameObject:
   - component: {fileID: 33893554}
   - component: {fileID: 33893553}
   - component: {fileID: 33893552}
+  - component: {fileID: 33893555}
+  - component: {fileID: 33893556}
   m_Layer: 5
   m_Name: MENU largometrajes
   m_TagString: Untagged
@@ -436,6 +438,42 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &33893555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33893550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a571cb85651b6a64bb15297da99a3afa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator_transition: {fileID: 33893556}
+  value: 0
+--- !u!95 &33893556
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 33893550}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5ceb6770c73b2174c9e29caf40b3946f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &33917879
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1673,7 +1711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96293ff934613664888640f6d5913efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Opciones: {fileID: 0}
+  Opciones: {fileID: 1422090335}
   Text_descripcion: {fileID: 0}
   imagen: {fileID: 0}
   sedes:
@@ -1966,7 +2004,6 @@ GameObject:
   - component: {fileID: 123216502}
   - component: {fileID: 123216501}
   - component: {fileID: 123216500}
-  - component: {fileID: 123216499}
   m_Layer: 5
   m_Name: MENu inicio
   m_TagString: Untagged
@@ -1998,28 +2035,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!95 &123216499
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 123216497}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f336896a4efe22249b10abec421d5c39, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &123216500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12047,39 +12062,45 @@ MonoBehaviour:
   - destiny_name: Categorias a principal
     transition: 0
     button: {fileID: 1109576412}
-    delay_time: 0.49
+    delay_time: 1.7173877
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 1239087771}
-  - destiny_name: juego a categoria
-    transition: 0
-    button: {fileID: 2144089065}
-    delay_time: 0
-    currentPanel: {fileID: 1327784484}
-    nextPanel: {fileID: 1258272054}
-  - destiny_name: Actividades a categoria (FALTA)
-    transition: 0
-    button: {fileID: 550253695}
-    delay_time: 0
-    currentPanel: {fileID: 1258272054}
-    nextPanel: {fileID: 1327784484}
   - destiny_name: categoria a sedes
     transition: 0
     button: {fileID: 1199804958}
-    delay_time: 0.57
+    delay_time: 1.5
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 2093896456}
   - destiny_name: categoria a juegos
     transition: 0
     button: {fileID: 550253695}
-    delay_time: 0
+    delay_time: 1.5
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 1327784484}
+  - destiny_name: categorias a cortos
+    transition: 0
+    button: {fileID: 1922499383}
+    delay_time: 1.5
+    currentPanel: {fileID: 1258272054}
+    nextPanel: {fileID: 1405598445}
   - destiny_name: Categorias a largos
     transition: 0
     button: {fileID: 1920445191}
-    delay_time: 0
+    delay_time: 1.5
     currentPanel: {fileID: 1258272054}
     nextPanel: {fileID: 33893550}
+  - destiny_name: categorias a series
+    transition: 0
+    button: {fileID: 1868190354}
+    delay_time: 1.5
+    currentPanel: {fileID: 1258272054}
+    nextPanel: {fileID: 969570161}
+  - destiny_name: juego a categoria
+    transition: 0
+    button: {fileID: 2144089065}
+    delay_time: 1.5
+    currentPanel: {fileID: 1327784484}
+    nextPanel: {fileID: 1258272054}
   - destiny_name: principal a extras
     transition: 0
     button: {fileID: 1769076841}
@@ -12146,24 +12167,12 @@ MonoBehaviour:
     delay_time: 0
     currentPanel: {fileID: 123216497}
     nextPanel: {fileID: 1239087771}
-  - destiny_name: categorias a cortos
-    transition: 0
-    button: {fileID: 1922499383}
-    delay_time: 0
-    currentPanel: {fileID: 1258272054}
-    nextPanel: {fileID: 1405598445}
   - destiny_name: cortos a categorias
     transition: 0
     button: {fileID: 496337654}
     delay_time: 0
     currentPanel: {fileID: 1405598445}
     nextPanel: {fileID: 1258272054}
-  - destiny_name: categorias a series
-    transition: 0
-    button: {fileID: 1868190354}
-    delay_time: 0
-    currentPanel: {fileID: 1258272054}
-    nextPanel: {fileID: 969570161}
   - destiny_name: series a categorias
     transition: 0
     button: {fileID: 1405884052}
@@ -19182,7 +19191,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1196802554
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20681,8 +20690,10 @@ GameObject:
   - component: {fileID: 1258272058}
   - component: {fileID: 1258272057}
   - component: {fileID: 1258272056}
+  - component: {fileID: 1258272059}
+  - component: {fileID: 1258272060}
   m_Layer: 5
-  m_Name: MENU Categorias
+  m_Name: 'MENU Categorias [L]'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20774,6 +20785,42 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1258272059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258272054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a571cb85651b6a64bb15297da99a3afa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator_transition: {fileID: 1258272060}
+  value: 0
+--- !u!95 &1258272060
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258272054}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5cbcdf5bf28701e4fb0222d07ef256ac, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1272583779 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4173885649633149794, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
@@ -22212,8 +22259,10 @@ GameObject:
   - component: {fileID: 1327784488}
   - component: {fileID: 1327784487}
   - component: {fileID: 1327784486}
+  - component: {fileID: 1327784490}
+  - component: {fileID: 1327784489}
   m_Layer: 5
-  m_Name: MENU juegos
+  m_Name: 'MENU juegos [L]'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22307,6 +22356,42 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!95 &1327784489
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327784484}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0737aaf389e247b44a57ffdb65b6d969, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1327784490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327784484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a571cb85651b6a64bb15297da99a3afa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator_transition: {fileID: 1327784489}
+  value: 0
 --- !u!1001 &1332096743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27771,7 +27856,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 16.326}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 86.865, y: -220.5}
+  m_AnchoredPosition: {x: 86.75, y: -220.5}
   m_SizeDelta: {x: 825, y: 360}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1728843996
@@ -32439,6 +32524,7 @@ GameObject:
   - component: {fileID: 2093896460}
   - component: {fileID: 2093896459}
   - component: {fileID: 2093896458}
+  - component: {fileID: 2093896461}
   m_Layer: 5
   m_Name: MENU sedes
   m_TagString: Untagged
@@ -32542,6 +32628,20 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &2093896461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093896456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a571cb85651b6a64bb15297da99a3afa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator_transition: {fileID: 0}
+  value: 0
 --- !u!1 &2101089582
 GameObject:
   m_ObjectHideFlags: 0

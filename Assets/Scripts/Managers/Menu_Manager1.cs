@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -13,6 +14,7 @@ public class Menu_Manager1 : MonoBehaviour
     [SerializeField] private AudioClip sfx_click;
     [SerializeField] private List<ButtonInfo> buttons = new List<ButtonInfo>();
 
+    public static event Action on_select_button_in_menu;
 
     void Start()
     {
@@ -28,8 +30,9 @@ public class Menu_Manager1 : MonoBehaviour
                 //AHORA NECESITO HACER QUE CADA VEZ QUE PRESIONE UN BOTON, HAYA UNA ESPERA DE CAMBIO DE MENU Y SE EJECUTE
                 string destino = info.destiny_name;
                 info.button.onClick.AddListener(() =>{Debug.Log("Cambiando a: " + destino);AudioManager.instance.PlaySFX(sfx_click);
+                //EMITIMOS UN EVENTO PARA SUSCRIBIRNOS A UNA CLASE QUE PERMITA TRANSICIONAR ENTRE LOS DISTINTOS MENU
                 StartCoroutine(ch_menu(info,current,next));
-                //ButtonAction(current, next);
+                on_select_button_in_menu.Invoke();
                 });
 
 
