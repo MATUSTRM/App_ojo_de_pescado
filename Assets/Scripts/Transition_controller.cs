@@ -1,3 +1,4 @@
+using UnityEditor.Animations;
 using UnityEngine;
 
 public class Transition_controller : MonoBehaviour
@@ -6,6 +7,10 @@ public class Transition_controller : MonoBehaviour
     [SerializeField] Animator animator_transition;
     [SerializeField] bool value = false;
 
+    void Start()
+    {
+        
+    }
     public void update_transition()
     {
         animator_transition.SetBool("show",value);
@@ -13,16 +18,18 @@ public class Transition_controller : MonoBehaviour
 
     void Update()
     {
-        update_transition();
+        //update_transition();
     }
     public void hide_transition()
     {
-        value = false;
+        animator_transition.Play("hide_panel");
+        //value = false;
     }
 
     public void show_transition()
     {
-        value = true;
+        animator_transition.Play("show_panel");
+        //value = true;
     }
 
     void OnEnable()
@@ -34,5 +41,11 @@ public class Transition_controller : MonoBehaviour
     void OnDisable()
     {
         Menu_Manager1.on_select_button_in_menu -= hide_transition;
+    }
+
+    public void reset_animation()
+    {
+        show_transition();
+        hide_transition();
     }
 }
