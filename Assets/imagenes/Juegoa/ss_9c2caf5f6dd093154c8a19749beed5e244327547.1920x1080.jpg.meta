@@ -129,10 +129,10 @@ TextureImporter:
       name: ss_9c2caf5f6dd093154c8a19749beed5e244327547.1920x1080_0
       rect:
         serializedVersion: 2
-        x: 609
-        y: 225
-        width: 779
-        height: 358
+        x: 841
+        y: 238
+        width: 272
+        height: 274
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
