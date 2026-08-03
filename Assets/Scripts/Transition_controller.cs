@@ -1,4 +1,4 @@
-using UnityEditor.Animations;
+
 using UnityEngine;
 
 public class Transition_controller : MonoBehaviour
@@ -7,10 +7,7 @@ public class Transition_controller : MonoBehaviour
     [SerializeField] Animator animator_transition;
     [SerializeField] bool value = false;
 
-    void Start()
-    {
-        
-    }
+
     public void update_transition()
     {
         animator_transition.SetBool("show",value);
