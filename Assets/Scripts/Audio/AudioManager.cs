@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AudioManager : MonoBehaviour
 {
@@ -88,4 +89,31 @@ public class AudioManager : MonoBehaviour
             volumenReducido = false;
         }
     }
+
+
+    public void Toggle_music()
+    {
+        if (musicSource.mute)
+        {
+            musicSource.mute = !musicSource.mute;
+        }
+        else
+        {
+            musicSource.mute = !musicSource.mute;
+        }
+    }
+
+    public void Toggle_sound()
+    {
+        if (sfxSource.mute)
+        {
+            sfxSource.mute = musicSource.mute;
+        }
+        else
+        {
+            sfxSource.mute = !musicSource.mute;
+        }
+    }
+
+    
 }
