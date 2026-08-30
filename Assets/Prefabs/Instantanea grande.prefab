@@ -133,7 +133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.98039216}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -178,16 +178,17 @@ RectTransform:
   m_GameObject: {fileID: 3425732991757332590}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4282988, y: 1.4282988, z: 1.4282988}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1594596049323756001}
   - {fileID: 5749908855780546082}
+  - {fileID: 6344348297069238760}
   m_Father: {fileID: 2521149767933436058}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 5}
   m_SizeDelta: {x: 268.4711, y: 310.9698}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2280318523955382599
@@ -256,7 +257,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2521149767933436058
 RectTransform:
   m_ObjectHideFlags: 0
@@ -266,19 +267,18 @@ RectTransform:
   m_GameObject: {fileID: 3785566796691708058}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.6704, y: 2.6704, z: 2.6704}
+  m_LocalScale: {x: 2.573803, y: 2.573803, z: 2.573803}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3604877005144492930}
   - {fileID: 7635292034578078110}
-  - {fileID: 6344348297069238760}
   - {fileID: 1101606069943199466}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.005126953, y: -0.0016479492}
+  m_SizeDelta: {x: -1614.3, y: -733.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &5406967230562152383
 MonoBehaviour:
@@ -386,14 +386,14 @@ RectTransform:
   m_GameObject: {fileID: 3800815664418816891}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.8751, y: 1.8751, z: 1.8751}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2521149767933436058}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 121.7, y: 145.7}
+  m_AnchoredPosition: {x: -411, y: 192}
   m_SizeDelta: {x: 33.2239, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2071484229449047129
@@ -648,18 +648,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8077933535483850999}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.7496331, y: 0.7496331, z: 0.7496331}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2521149767933436058}
+  m_Father: {fileID: 7635292034578078110}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.5821, y: -113.117905}
-  m_SizeDelta: {x: 256.9554, y: 65.8209}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 13.2779}
+  m_SizeDelta: {x: 319.54, y: 83.0319}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &3907623611319835008
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -691,15 +691,15 @@ MonoBehaviour:
   m_text: "Avent\xFArate en el misterioso viaje de una gata buscando las memorias
     de su amiga, una anciana humana que las ha perdido"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
-  m_sharedMaterial: {fileID: -8490938989670987, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 91178a700d8c49d43940b61085d8f0eb, type: 2}
+  m_sharedMaterial: {fileID: 489100710107625406, guid: 91178a700d8c49d43940b61085d8f0eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4285127159
-  m_fontColor: {r: 0.9686275, g: 0.85098046, b: 0.41176474, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -716,13 +716,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14.9
+  m_fontSize: 17.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 11
   m_fontSizeMax: 30
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 8
   m_VerticalAlignment: 512
   m_textAlignment: 65535

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f3253bf7e3e34458b4fbb910298aba, type: 3}
+  m_Name: Evento
+  m_EditorClassIdentifier: 
+  img_evento: {fileID: 2800000, guid: 79f2e073e22ff16408a2d7b8bfdc3d71, type: 3}
+  nombre: Contenido interactico
+  Descripcion: "<color=#FFFFFF>El d\xEDa Lunes 31 de agosto a las 9:30 A.M. se realizaran
+    las sigueintes actividades:</color>  -Hito inaugural -Feria de Exhibici\xF3n
+    Juegos en Competencia -Showcase COMKIDS -Masterclass CRTIC"
+  mes: 8
+  dia: 1
+  "a\xF1o": 2026
+  h_inicio: 9
+  m_inicio: 30
+  h_final: 0
+  m_final: 0
