@@ -24043,6 +24043,38 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 33.999
       objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 986.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -74
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 118.40311
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -292
+      objectReference: {fileID: 0}
     - target: {fileID: 1405840600366217956, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_text
       value: Cuentos sobre el futuro
@@ -24105,7 +24137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 520.88
+      value: 584
       objectReference: {fileID: 0}
     - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24155,6 +24187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7170139429690790184, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_text
       value: "<color=#FFFFFF>El <b><color=#FFD43B>Jueves 3 de septiembre, a las 9:30
@@ -24168,6 +24204,26 @@ PrefabInstance:
     - target: {fileID: 7206987295521542036, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161495105765028524, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_Padding.m_Left
+      value: 82
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1073.497
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -292
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -33281,6 +33337,38 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 33.999
       objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 986.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 844251928256421485, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -74
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 118.40311
+      objectReference: {fileID: 0}
+    - target: {fileID: 942112171943897628, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -292
+      objectReference: {fileID: 0}
     - target: {fileID: 1405840600366217956, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_text
       value: "El vals de los in\xFAtiles"
@@ -33343,7 +33431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 520.88
+      value: 584
       objectReference: {fileID: 0}
     - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33393,6 +33481,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829292495282243323, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7170139429690790184, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_text
       value: "<color=#FFFFFF>El <b><color=#FFD43B>Mi\xE9rcoles 2 de septiembre, a
@@ -33406,6 +33498,26 @@ PrefabInstance:
     - target: {fileID: 7206987295521542036, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161495105765028524, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_Padding.m_Left
+      value: 82
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1073.497
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753125247681604091, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -292
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -52538,7 +52650,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1549371219
 RectTransform:
   m_ObjectHideFlags: 0
