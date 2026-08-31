@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
-  m_Name: valpo
+  m_Name: parque cultural valpo
   m_EditorClassIdentifier: 
-  imagen_sede: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+  imagen_sede: {fileID: -671059981538101723, guid: b82b7dfda8ceef944afde3ca28e590a4, type: 3}
   Nombre: valpo
   Descripcion: es una prueba

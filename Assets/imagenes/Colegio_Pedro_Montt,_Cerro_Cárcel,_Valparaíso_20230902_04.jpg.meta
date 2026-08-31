@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Colegio_Pedro_Montt,_Cerro_C\xE1rcel,_Valpara\xEDso_20230902_04_0": 4161043514272227414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

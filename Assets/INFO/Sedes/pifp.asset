@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
   m_Name: pifp
   m_EditorClassIdentifier: 
-  imagen_sede: {fileID: 2800000, guid: 34c7e47e083c3e9468621a16b9ef4b7b, type: 3}
+  imagen_sede: {fileID: 5879955202365793025, guid: 34c7e47e083c3e9468621a16b9ef4b7b, type: 3}
   Nombre: pifp
   Descripcion: 'la u '
