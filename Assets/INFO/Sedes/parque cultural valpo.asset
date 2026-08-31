@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imagen_sede: {fileID: -671059981538101723, guid: b82b7dfda8ceef944afde3ca28e590a4, type: 3}
   Nombre: valpo
-  Descripcion: es una prueba
+  Descripcion: "Sede: Parque cultural de Valpara\xEDso Direcci\xF3n: Calle Cumming
+    590, Cerro C\xE1rcel"

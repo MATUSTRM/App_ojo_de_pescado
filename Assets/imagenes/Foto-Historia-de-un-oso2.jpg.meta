@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3b3344bc182bd174884fe01f0fb6f132
+guid: 6122ab4952c60ac4988b8f1d795c072c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4482611153267376924
-    second: foto_0000000120170925180041_0
+      213: -2060814281831733472
+    second: Foto-Historia-de-un-oso2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: foto_0000000120170925180041_0
+      name: Foto-Historia-de-un-oso2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 425
-        height: 435
+        x: 110
+        y: 69
+        width: 377
+        height: 317
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c13c4b0181f653e30800000000000000
-      internalID: 4482611153267376924
+      spriteID: 0272e5f44548663e0800000000000000
+      internalID: -2060814281831733472
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f70a753a6323d754fb4a9b9a4cf637e0
+    spriteID: d578181d7152cf44fbbe8d87685d01e4
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      foto_0000000120170925180041_0: 4482611153267376924
+      Foto-Historia-de-un-oso2_0: -2060814281831733472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

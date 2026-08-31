@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
-  m_Name: pifp
+  m_Name: cineteca
   m_EditorClassIdentifier: 
-  imagen_sede: {fileID: 5879955202365793025, guid: 34c7e47e083c3e9468621a16b9ef4b7b, type: 3}
-  Nombre: PUCV Industrias creativas
-  Descripcion: "Sede: PUCV Industrias creativas Direcci\xF3n: Av. Altamirano 1424"
+  imagen_sede: {fileID: 4482611153267376924, guid: 3b3344bc182bd174884fe01f0fb6f132, type: 3}
+  Nombre: Cineteca
+  Descripcion: 'Sede: Cineteca / Edificio Gimpert PUCV  Direccion: Avenida Brasil
+    2830'
