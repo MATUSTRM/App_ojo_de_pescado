@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65a892c9e2634a4428c071f46a1257ac, type: 3}
-  m_Name: pifp
+  m_Name: duoc
   m_EditorClassIdentifier: 
-  imagen_sede: {fileID: 5879955202365793025, guid: 34c7e47e083c3e9468621a16b9ef4b7b, type: 3}
-  Nombre: PUCV Industrias creativas
-  Descripcion: Av. Altamirano 1424
+  imagen_sede: {fileID: -6409223901607185208, guid: f095b4fb4d354f64da556d352974d301, type: 3}
+  Nombre: Duoc Uc
+  Descripcion: "Av. Err\xE1zuriz 1020"

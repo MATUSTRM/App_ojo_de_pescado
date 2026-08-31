@@ -1788,14 +1788,12 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 126142517}
-  - {fileID: 1852692951}
-  - {fileID: 269193160}
-  - {fileID: 135140282}
   - {fileID: 1487480146}
   - {fileID: 1934039602}
   - {fileID: 1972183218}
   - {fileID: 1433794355}
   - {fileID: 535204989}
+  - {fileID: 1852692951}
   m_Father: {fileID: 2093896457}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -3604,9 +3602,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 30dade5c246d66b4da53b0c957bbe22d, type: 2}
   - {fileID: 11400000, guid: f20896b7784ecec48bf37076f4f872af, type: 2}
   - {fileID: 11400000, guid: c028e194d36504f48b4c30ecbfb51567, type: 2}
+  - {fileID: 11400000, guid: 626429cde7ce2db48b65a276acf6775f, type: 2}
   horarios:
   - {fileID: 2141120323}
   - {fileID: 421167534}
+  - {fileID: 1232752618}
+  - {fileID: 1232752618}
 --- !u!4 &104513623
 Transform:
   m_ObjectHideFlags: 0
@@ -4314,7 +4315,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 63050256}
+    m_TransformParent: {fileID: 1852692951}
     m_Modifications:
     - target: {fileID: 27456042685317133, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_IsActive
@@ -9000,7 +9001,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 63050256}
+    m_TransformParent: {fileID: 1852692951}
     m_Modifications:
     - target: {fileID: 27456042685317133, guid: 13eaaab9b560fe941a72a9883615ce7f, type: 3}
       propertyPath: m_IsActive
@@ -16273,6 +16274,12 @@ MonoBehaviour:
     - m_Text: PIFP
       m_Image: {fileID: 0}
       m_Color: {r: 1, g: 1, b: 1, a: 1}
+    - m_Text: PCV
+      m_Image: {fileID: 0}
+      m_Color: {r: 1, g: 1, b: 1, a: 1}
+    - m_Text: Duoc
+      m_Image: {fileID: 0}
+      m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -19814,7 +19821,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 618358295}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -30916,7 +30923,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1001370609
 RectTransform:
   m_ObjectHideFlags: 0
@@ -32124,7 +32131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4173885649633149794, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5483048555411873509, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_Sprite
@@ -33306,7 +33313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4173885649633149794, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5483048555411873509, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_Sprite
@@ -37748,7 +37755,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1232752619}
   m_Layer: 5
-  m_Name: Actividades
+  m_Name: PCV
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48562,7 +48569,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1549371218}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -48571,12 +48578,12 @@ RectTransform:
   - {fileID: 573373889}
   - {fileID: 1609414356}
   - {fileID: 832049108}
-  m_Father: {fileID: 2093896457}
+  m_Father: {fileID: 1852692951}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 2240, y: 980}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1550404535
 PrefabInstance:
@@ -50260,8 +50267,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sede: Parque cultural de Valpara\xEDso\nDireccion: Calle Cumming 590,
-    Cerro C\xE1rcel\n"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
   m_sharedMaterial: {fileID: -8490938989670987, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
@@ -51851,7 +51857,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1686173011
 RectTransform:
   m_ObjectHideFlags: 0
@@ -54658,7 +54664,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4173885649633149794, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5483048555411873509, guid: 0447a4362d1922d44b9a6cecc735d904, type: 3}
       propertyPath: m_Sprite
@@ -55910,7 +55916,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1839615051
 RectTransform:
   m_ObjectHideFlags: 0
@@ -55918,7 +55924,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1839615050}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -55928,12 +55934,12 @@ RectTransform:
   - {fileID: 7440009794707150305}
   - {fileID: 1370998923}
   - {fileID: 500051171}
-  m_Father: {fileID: 2093896457}
+  m_Father: {fileID: 1852692951}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 2240, y: 980}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1847471376 stripped
 GameObject:
@@ -56031,6 +56037,10 @@ RectTransform:
   m_Children:
   - {fileID: 2141120324}
   - {fileID: 421167535}
+  - {fileID: 1549371219}
+  - {fileID: 1839615051}
+  - {fileID: 269193160}
+  - {fileID: 135140282}
   m_Father: {fileID: 63050256}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -59198,8 +59208,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sede: Tetro Municipal de Valpara\xEDso\nDirecci\xF3n: Avenida Uruguay
-    410"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
   m_sharedMaterial: {fileID: -8490938989670987, guid: e59db3aeab2aea14cac6be0ceba050ac, type: 2}
@@ -59226,7 +59235,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36.95
+  m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -61233,16 +61242,14 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 499135531}
   - {fileID: 754394332}
   - {fileID: 1405504657}
   - {fileID: 484556224}
   - {fileID: 776150256}
-  - {fileID: 1839615051}
-  - {fileID: 1549371219}
   - {fileID: 63050256}
   - {fileID: 2128790327}
   - {fileID: 850368939}
-  - {fileID: 499135531}
   - {fileID: 1761855117}
   - {fileID: 1283195040}
   m_Father: {fileID: 1986878713}
